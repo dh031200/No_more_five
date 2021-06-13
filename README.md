@@ -13,7 +13,7 @@
 
 그룹의 인원이 5명 이상이 되면 화면의 경계선에 빨간색과 노란색 테두리가 생겨 경고합니다.
 
-https://user-images.githubusercontent.com/66017052/121815410-50189c80-ccb1-11eb-96ee-410867bcac78.mp4
+![warning_2](https://user-images.githubusercontent.com/66017052/121816067-6d029f00-ccb4-11eb-87b8-c1fca523ef60.gif)
 
 구글 이미지 검색에서 식탁과 사람 각 600장의 사진을 모아 학습시켰습니다.
 
