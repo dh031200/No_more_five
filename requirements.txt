@@ -1,0 +1,10 @@
+opencv-python==4.1.1.26
+lxml
+tqdm
+tensorflow~=2.5.0
+absl-py
+easydict
+matplotlib
+pillow~=8.2.0
+numpy~=1.19.5
+scipy~=1.6.2
