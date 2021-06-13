@@ -21,6 +21,9 @@
 
 사전에 학습된 가중치를 사용하기 위해 > [model](https://drive.google.com/file/d/1ldfN0nnbZModFHBR1fx2oqR-GG6pgfjQ/view?usp=sharing "학습된 모델") < 다운로드
 
+본 소스는 hunglc007의 tensorflow-yolov4-tflite에 일부 창작 코드를 추가한 코드입니다.
+
+original source : https://github.com/hunglc007/tensorflow-yolov4-tflite  (hunglc007)
 
 ------------
 
