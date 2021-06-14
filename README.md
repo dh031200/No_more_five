@@ -1,7 +1,7 @@
 # No_more_five
 5인 이상 집합한 경우를 탐지하는 object detection 프로젝트
 
-### Team 4인이하 집합가능 
+### Team 4인 집합가능 
 
 #### Member 김동훈 정창수 성재빈 박진영
 
