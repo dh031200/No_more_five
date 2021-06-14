@@ -45,3 +45,7 @@ model_path = 'models/'
 #### 클래스 정보 및 모델 정보
 class_info = 'obj.names'
 model = 'yolov4-0613'  # 사용할 모델 'yolov4-first', 'yolov4-0613'
+
+
+--------------------
+> [박진영] https://github.com/john9803
