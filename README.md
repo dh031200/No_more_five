@@ -5,6 +5,9 @@
 
 #### Member 김동훈 정창수 성재빈 박진영
 
+
+https://www.youtube.com/watch?v=Q5vHOuMOPrs
+
 ------------
 
 테이블과 사람을 탐지 후 테이블 갯수에 따라 그룹을 생성합니다.
@@ -49,3 +52,5 @@ model = 'yolov4-0613'  # 사용할 모델 'yolov4-first', 'yolov4-0613'
 
 --------------------
 > [박진영] https://github.com/john9803
+
+> [정창수] https://github.com/JeongChangsu
